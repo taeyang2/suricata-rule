@@ -1,0 +1,88 @@
+04/18/2025-12:28:35.695201  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55610 -> 110.11.116.252:80
+04/18/2025-12:28:35.982017  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:41146 -> 110.11.116.252:80
+04/18/2025-12:28:36.171073  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55610 -> 110.11.116.252:80
+04/18/2025-12:28:36.715269  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55610 -> 110.11.116.252:80
+04/18/2025-12:28:36.762214  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55610 -> 110.11.116.252:80
+04/24/2025-11:03:37.496708  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51444 -> 110.11.116.252:80
+04/24/2025-11:03:37.733355  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51444 -> 110.11.116.252:80
+04/24/2025-11:06:05.247190  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55634 -> 110.11.116.252:80
+04/24/2025-11:08:02.098032  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:37710 -> 110.11.116.252:80
+04/24/2025-11:08:02.284610  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:37710 -> 110.11.116.252:80
+04/24/2025-11:16:26.921817  [**] [1:10006:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56594 -> 31.13.76.35:80
+04/24/2025-11:16:36.164510  [**] [1:10007:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:49396 -> 205.251.242.103:80
+04/24/2025-11:16:44.874861  [**] [1:10008:1] twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55416 -> 172.66.0.227:80
+04/24/2025-11:16:56.256155  [**] [1:10017:1] ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:39032 -> 23.53.3.147:80
+04/24/2025-11:17:16.575432  [**] [1:10019:1] spotify.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:35080 -> 35.186.224.24:80
+04/24/2025-15:06:50.294717  [**] [1:10021:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:42000 -> 211.183.210.24:80
+04/24/2025-15:57:34.915989  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:50358 -> 172.217.161.196:443
+04/24/2025-15:57:35.036419  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:50374 -> 172.217.161.196:443
+04/24/2025-15:57:38.445734  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53150 -> 34.64.4.113:443
+04/24/2025-15:57:38.714559  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:36032 -> 142.250.206.202:443
+04/24/2025-15:57:39.822555  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:47306 -> 172.217.25.174:443
+04/24/2025-15:58:24.631750  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:34358 -> 172.217.161.196:443
+04/24/2025-15:58:24.682118  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:34374 -> 172.217.161.196:443
+04/24/2025-16:05:50.832504  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:44944 -> 172.217.161.196:443
+04/24/2025-16:06:10.227837  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:55020 -> 142.250.206.234:443
+04/24/2025-16:06:11.256378  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:34140 -> 172.217.25.174:443
+04/24/2025-16:13:52.670346  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:37402 -> 172.217.161.196:443
+04/24/2025-16:14:06.400600  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51620 -> 172.217.161.196:443
+04/24/2025-16:15:15.449353  [**] [1:10022:1] Google SNI detected [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:35022 -> 172.217.161.196:443
+04/24/2025-16:15:15.710255  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:59116 -> 52.41.166.128:443
+04/24/2025-16:15:15.713397  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:59124 -> 52.41.166.128:443
+04/24/2025-16:16:26.485910  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:41336 -> 52.41.166.128:443
+04/24/2025-16:16:26.497926  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:41340 -> 52.41.166.128:443
+04/24/2025-16:19:06.498114  [**] [1:10022:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:60628 -> 172.217.161.196:443
+04/24/2025-16:19:07.753241  [**] [1:10022:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:50676 -> 34.128.9.241:443
+04/24/2025-16:19:07.960656  [**] [1:10022:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:47142 -> 142.250.206.202:443
+04/24/2025-16:19:08.878642  [**] [1:10022:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53964 -> 172.217.25.174:443
+04/24/2025-16:22:20.406349  [**] [1:10023:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:35860 -> 223.130.192.205:443
+04/24/2025-16:22:20.973008  [**] [1:10023:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:35866 -> 223.130.192.205:443
+04/24/2025-16:23:30.234780  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58538 -> 199.60.103.31:443
+04/24/2025-16:25:51.600225  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:40174 -> 172.217.161.196:443
+04/24/2025-16:26:04.578811  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53920 -> 199.60.103.31:443
+04/24/2025-16:26:10.406711  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51200 -> 110.11.116.252:80
+04/24/2025-16:26:10.649509  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51214 -> 110.11.116.252:80
+04/24/2025-16:26:10.855069  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51200 -> 110.11.116.252:80
+04/24/2025-16:26:11.404995  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51200 -> 110.11.116.252:80
+04/24/2025-16:26:11.463671  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51200 -> 110.11.116.252:80
+04/24/2025-16:26:11.523757  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:51254 -> 110.11.116.252:80
+04/24/2025-16:26:22.443377  [**] [1:10005:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53256 -> 142.250.206.238:80
+04/24/2025-16:26:23.793646  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58142 -> 142.250.157.84:443
+04/24/2025-16:26:24.553181  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58536 -> 172.217.161.196:443
+04/24/2025-16:26:26.311479  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:33712 -> 172.217.25.174:443
+04/24/2025-16:26:26.317519  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:33708 -> 172.217.25.174:443
+04/24/2025-16:33:30.569356  [**] [1:10006:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:43184 -> 52.94.236.248:80
+04/24/2025-16:33:56.860154  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53400 -> 172.217.25.174:443
+04/24/2025-16:33:56.879395  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53410 -> 172.217.25.174:443
+04/24/2025-16:37:15.996349  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56574 -> 142.251.8.84:443
+04/24/2025-16:37:15.998878  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56558 -> 142.251.8.84:443
+04/24/2025-16:37:26.297774  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:57764 -> 172.217.25.174:443
+04/24/2025-16:40:24.577642  [**] [1:10007:1] x.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:33848 -> 172.66.0.227:443
+04/24/2025-16:40:25.477447  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53324 -> 142.251.8.84:443
+04/24/2025-16:40:36.979990  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58960 -> 172.217.25.174:443
+04/24/2025-16:40:41.095571  [**] [1:10008:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56848 -> 31.13.76.174:80
+04/24/2025-16:40:56.597387  [**] [1:10009:1] linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56308 -> 150.171.22.12:80
+04/24/2025-16:40:58.033882  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:54538 -> 142.251.8.84:443
+04/24/2025-16:40:58.069293  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:54542 -> 142.251.8.84:443
+04/24/2025-16:41:09.333527  [**] [1:10010:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:52338 -> 13.107.246.59:80
+04/24/2025-16:41:09.786762  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58480 -> 172.217.25.174:443
+04/24/2025-16:41:09.813788  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58496 -> 172.217.25.174:443
+04/24/2025-16:41:10.177953  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58506 -> 172.217.25.174:443
+04/24/2025-16:41:10.211116  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58512 -> 172.217.25.174:443
+04/24/2025-16:41:13.969128  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:33736 -> 172.217.161.196:443
+04/24/2025-16:41:16.631363  [**] [1:10011:1] apple.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:36536 -> 17.253.144.10:80
+04/24/2025-16:41:21.675086  [**] [1:10012:1] reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53284 -> 151.101.1.140:80
+04/24/2025-16:41:23.205268  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:33752 -> 172.217.161.196:443
+04/24/2025-16:41:23.220147  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:39816 -> 142.251.8.84:443
+04/24/2025-16:41:24.513332  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:32944 -> 172.217.161.196:443
+04/24/2025-16:41:24.611070  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:32940 -> 172.217.161.196:443
+04/24/2025-16:41:24.625767  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:32942 -> 172.217.161.196:443
+04/24/2025-16:41:25.326745  [**] [1:10020:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:43212 -> 23.35.220.251:443
+04/24/2025-16:41:33.881192  [**] [1:10013:1] wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:58450 -> 103.102.166.224:80
+04/24/2025-16:41:34.357502  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:43686 -> 172.217.25.174:443
+04/24/2025-16:41:34.363772  [**] [1:10002:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:43692 -> 172.217.25.174:443
+04/24/2025-16:41:41.684928  [**] [1:10014:1] yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:53404 -> 98.137.11.163:80
+04/24/2025-16:42:26.738092  [**] [1:10015:1] ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:32920 -> 61.111.58.209:443
+04/24/2025-16:42:28.336710  [**] [1:10015:1] ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:52616 -> 209.140.133.7:443
+04/24/2025-16:42:31.451182  [**] [1:10020:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:44882 -> 23.35.220.251:443
+04/24/2025-16:42:36.633651  [**] [1:10016:1] twitch.tv access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.35.129:56154 -> 151.101.2.167:80
